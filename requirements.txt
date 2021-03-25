@@ -22,7 +22,7 @@ python-dotenv==0.7.1
 python-magic==0.4.15
 python-speech-features==0.6
 pytz==2017.3
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 scipy==1.0.0
 six==1.11.0
